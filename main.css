@@ -88,3 +88,24 @@ object{
     padding: 60px; 
     font-size: 100px;
 }
+#teamn{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 80px;
+    text-align: center;
+    background-color: rgb(47, 0, 255);
+    color: antiquewhite;
+    padding: 30px; 
+    font-size: 70px;
+}
+
+#gg{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 80px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: antiquewhite;
+    padding: 30px; 
+    font-size: 70px; 
+}
