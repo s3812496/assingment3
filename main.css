@@ -56,3 +56,9 @@ h3,
 h4 {
     padding: 5px;
 }
+
+object{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
